@@ -1,11 +1,13 @@
 # Academic project 1 - Omnifood
 ## Table of Content
-* [Brief](#Brief)
+* [Objective](#Objective)
 * [Design and Implementation](#Design-and-Implementation)
 
-## Brief:  
-Omnifood is a premium food delivery website that promotes healthy food. The user can subscribe to a food package of their choice and it will be delivered to their doorsteps. This project was completed as part of a course: Build Responsive Real-world websites with HTML and CSS3.
+## Objective:  
+Design and develop a website for premium food delivery service. This project was completed as part of a course: Build Responsive Real-world websites with HTML and CSS.!
 
 ## Design and Implementation:
-*	HTML5, CSS3 and Sass were used to develop the website. 
-*	The alignment of the HTML elements was done using CSS Flexbox.
+*	Created a responsive website using HTML5 and CSS3.
+*	Used jQuery for web animations.
+*	Deployed the website using Netlify.
+*	Saved source code to GitHub repository and configured with Netlify for continuous integration.
