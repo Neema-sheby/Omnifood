@@ -4,7 +4,7 @@
 * [Design and Implementation](#Design-and-Implementation)
 
 ## Objective:  
-Design and develop a website for premium food delivery service. This project was completed as part of a course: Build Responsive Real-world websites with HTML and CSS.!
+Design and develop a website for premium food delivery service. This project was completed as part of a course: Build Responsive Real-world websites with HTML and CSS.
 
 ## Design and Implementation:
 *	Created a responsive website using HTML5 and CSS3.
