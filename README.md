@@ -8,4 +8,4 @@ Omnifood is a premium food delivery website that promotes healthy food. The user
 
 ## Design and Implementation:
 *	HTML5, CSS3 and Sass were used to develop the website. 
-*	CSS Flexbox was used to align the HTML elements.
+*	The alignment of the HTML elements was done using CSS Flexbox.
